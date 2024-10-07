@@ -25,7 +25,7 @@ import {
         {
           role: "user",
           parts: [
-            {text: "Generate Travel Plan for location: Las vegas,for 3 days for couple with a cheap budget,Give me a hotels options list with HotelName , Hotel address, Price,hotel image url,geo coordinates,rating,descriptions and suggest itinerary with PlaceName,Pllace Details,Place image url,geo coordinates , ticket pricing,rating,Time travel each of the location for 3 days with each day plan with best time to visit in JSON format."},
+            {text: "Generate Travel Plan for location: Las vegas,for 3 days for couple with a cheap budget,Give me a hotels options list with HotelName , Hotel address, Price,hotel image url,geo coordinates,rating,descriptions and suggest itinerary with PlaceName,Place Details,Place image url,geo coordinates , ticket pricing,rating,Time travel each of the location for 3 days with each day plan with best time to visit in JSON format."},
           ],
         },
         {
