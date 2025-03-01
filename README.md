@@ -22,15 +22,30 @@ bun dev
 ```
 
 
-## Deploy on Vercel
+### Get Started
+1. **Clone the repository:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   ```bash
+   git clone https://github.com/AnasSiddiqui45/ai-trip-plan
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+2. **Install Dependencies:**
 
-Setup Environment Variables
- VITE_GOOGLE_PLACE_API_KEY=
+   ```bash
+   cd your_repo
+   npm intall
+   ```
+
+3. **Set Up Environment Variables:**
+
+   ```bash
+VITE_GOOGLE_PLACE_API_KEY=
 
 VITE_GOOGLE_GEMINI_AI_API_KEY=
 
-VITE_GOOGLE_AUTH_CLIENT_ID=
+VITE_GOOGLE_AUTH_CLIENT_ID=   ``
+    ```
+
+
+
+
