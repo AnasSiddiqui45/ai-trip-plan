@@ -37,7 +37,6 @@ bun dev
    ```
 
 3. **Set Up Environment Variables:**
-
    ```bash
 VITE_GOOGLE_PLACE_API_KEY=
 
@@ -45,6 +44,7 @@ VITE_GOOGLE_GEMINI_AI_API_KEY=
 
 VITE_GOOGLE_AUTH_CLIENT_ID=   ``
     ```
+
 
 
 
